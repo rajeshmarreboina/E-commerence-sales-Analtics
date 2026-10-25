@@ -102,8 +102,8 @@ I am actively building a portfolio that reflects my learning and analytical work
 ## Contact
 
 - GitHub: [@rajeshmarreboina](https://github.com/rajeshmarreboina)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- Email: [your-email@example.com](mailto:you@example.com)
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/rajesh-marreboina-948a18324)
+- Email: [your-email@example.com](marreboinarajesh@gmail.com.com)
 
 ---
 
